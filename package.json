@@ -61,5 +61,5 @@
     "vite": "npm:@voidzero-dev/vite-plus-core@1.0.0",
     "vitest": "5.0.1"
   },
-  "packageManager": "yarn@4.18.1"
+  "packageManager": "pnpm@12.8.1"
 }
